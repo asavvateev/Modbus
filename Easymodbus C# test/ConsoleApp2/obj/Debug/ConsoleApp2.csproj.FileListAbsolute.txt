@@ -1,0 +1,8 @@
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\bin\Debug\EasyModbus.dll
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\RiderProjects\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

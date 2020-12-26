@@ -1,0 +1,15 @@
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.exe
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.deps.json
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.runtimeconfig.json
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.runtimeconfig.dev.json
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.dll
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbusTest.pdb
+D:\RiderProjects\NModbusTest\NModbusTest\bin\Release\netcoreapp3.1\NModbus4.dll
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.csprojAssemblyReference.cache
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.csproj.CoreCompileInputs.cache
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.AssemblyInfoInputs.cache
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.AssemblyInfo.cs
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.csproj.CopyComplete
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.dll
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.pdb
+D:\RiderProjects\NModbusTest\NModbusTest\obj\Release\netcoreapp3.1\NModbusTest.genruntimeconfig.cache
